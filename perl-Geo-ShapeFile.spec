@@ -4,7 +4,6 @@
 #
 %define		pdir	Geo
 %define		pnam	ShapeFile
-%include	/usr/lib/rpm/macros.perl
 Summary:	Geo::ShapeFile - Perl extension for handling ESRI GIS Shapefiles
 Summary(pl.UTF-8):	Geo::ShapeFile - rozszerzenie Perla do obsługi plików w formacie ESRI Shapefile
 Name:		perl-Geo-ShapeFile
